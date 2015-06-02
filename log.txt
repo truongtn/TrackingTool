@@ -1,0 +1,410 @@
+08:23:06[START]: Preparing for the initial step...
+08:23:11[INFO]: The initial step is done, process is ready
+08:23:11[INFO]: Tracking...
+08:24:00[INFO]: Tracking...
+08:25:00[INFO]: Tracking...
+08:29:07[START]: Preparing for the initial step...
+08:29:41[START]: Preparing for the initial step...
+08:30:37[START]: Preparing for the initial step...
+08:30:37TIME OUT=1DURATION=1RETRY=1ALERT METHOD=
+08:30:38[INFO]: The initial step is done, process is ready
+08:30:38[INFO]: Tracking...
+08:31:00[INFO]: Tracking...
+08:32:00[INFO]: Tracking...
+08:33:00[INFO]: Tracking...
+08:34:00[INFO]: Tracking...
+08:35:00[INFO]: Tracking...
+08:36:00[INFO]: Tracking...
+08:37:00[INFO]: Tracking...
+08:38:00[INFO]: Tracking...
+08:39:00[INFO]: Tracking...
+08:40:00[INFO]: Tracking...
+08:41:00[INFO]: Tracking...
+08:42:00[INFO]: Tracking...
+08:43:00[INFO]: Tracking...
+08:44:00[INFO]: Tracking...
+08:45:00[START]: Preparing for the initial step...
+08:45:00TIME OUT= 1DURATION= 1RETRY= 1ALERT METHOD= 
+08:45:01[INFO]: The initial step is done, process is ready
+08:45:01[INFO]: Tracking...
+08:47:40[START]: Preparing for the initial step...
+08:47:40TIME OUT= 1DURATION= 1RETRY= 1ALERT METHOD= 
+08:47:41[INFO]: The initial step is done, process is ready
+08:47:41[INFO]: Tracking...
+08:48:00[INFO]: Tracking...
+08:49:00[INFO]: Tracking...
+08:49:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:49:00[ERROR]: http://localhost/test/ has been defaced
+08:50:00[INFO]: Tracking...
+08:50:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:50:00[ERROR]: http://localhost/test/ has been defaced
+08:51:00[INFO]: Tracking...
+08:51:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:51:00[ERROR]: http://localhost/test/ has been defaced
+08:52:00[INFO]: Tracking...
+08:52:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:52:00[ERROR]: http://localhost/test/ has been defaced
+08:53:00[INFO]: Tracking...
+08:53:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:53:00[ERROR]: http://localhost/test/ has been defaced
+08:54:00[INFO]: Tracking...
+08:54:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+08:54:00[ERROR]: http://localhost/test/ has been defaced
+08:54:25[START]: Preparing for the initial step...
+08:54:25TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:54:25[INFO]: The initial step is done, process is ready
+08:54:25[INFO]: Tracking...
+08:55:00[INFO]: Tracking...
+08:55:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:55:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:56:00[INFO]: Tracking...
+08:56:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:56:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:57:00[INFO]: Tracking...
+08:57:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:57:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:58:00[INFO]: Tracking...
+08:58:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:59:00[INFO]: Tracking...
+08:59:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+08:59:25[START]: Preparing for the initial step...
+08:59:25TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:59:25[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:59:25[INFO]: The initial step is done, the process is ready
+08:59:25[INFO]: Tracking...
+09:01:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+09:02:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+09:03:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+09:04:06[ERROR]: http://localhost/test/ is temporarily unavailabe
+09:34:13[START]: Preparing for the initial step...
+09:34:13 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:34:19[WARNING]: is not able to created initial content
+09:34:19[INFO]: The initial step is done, the process is ready
+09:34:19[INFO]: Tracking...
+09:34:25[ERROR]: http://localhost/test/ is temporarily unavailabe
+07:58:58[START]: Preparing for the initial step...
+07:58:58 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+07:59:02[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+07:59:02[INFO]: The initial step is done, the process is ready
+07:59:02[INFO]: Tracking...
+08:24:32[START]: Preparing for the initial step...
+08:24:32 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:24:32[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:24:32[INFO]: The initial step is done, the process is ready
+08:24:32[INFO]: Tracking...
+08:25:08[START]: Preparing for the initial step...
+08:25:08 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:25:08[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:25:08[INFO]: The initial step is done, the process is ready
+08:25:08[INFO]: Tracking...
+08:42:17[START]: Preparing for the initial step...
+08:42:17 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:42:17[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:42:17[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:42:17[INFO]: The initial step is done, the process is ready
+08:42:17[INFO]: Tracking...
+08:43:01[START]: Preparing for the initial step...
+08:43:01 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:43:01[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:43:01[INFO]: The initial step is done, the process is ready
+08:43:01[INFO]: Tracking...
+08:57:42[START]: Preparing for the initial step...
+08:57:42 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+08:57:42[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+08:57:42[INFO]: The initial step is done, the process is ready
+08:57:42[INFO]: Tracking...
+09:01:32[START]: Preparing for the initial step...
+09:01:32 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:01:32[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:01:32[INFO]: The initial step is done, the process is ready
+09:01:32[INFO]: Tracking...
+09:01:32[ERROR]: http://localhost/test/ is temporarily unavailabe
+09:09:44[START]: Preparing for the initial step...
+09:09:44 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:09:44[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:09:44[INFO]: The initial step is done, the process is ready
+09:09:44[INFO]: Tracking...
+09:11:13[START]: Preparing for the initial step...
+09:11:13 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:11:13[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:11:13[INFO]: The initial step is done, the process is ready
+09:11:13[INFO]: Tracking...
+09:11:33[START]: Preparing for the initial step...
+09:11:33 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:11:34[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:11:34[INFO]: The initial step is done, the process is ready
+09:11:34[INFO]: Tracking...
+09:12:05[START]: Preparing for the initial step...
+09:12:05 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:12:05[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:12:05[INFO]: The initial step is done, the process is ready
+09:12:05[INFO]: Tracking...
+09:12:59[START]: Preparing for the initial step...
+09:12:59 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:12:59[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:12:59[INFO]: The initial step is done, the process is ready
+09:12:59[INFO]: Tracking...
+09:12:59[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:12:59[ERROR]: http://localhost/test/ has been defaced
+09:13:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:13:00[ERROR]: http://localhost/test/ has been defaced
+09:13:28[START]: Preparing for the initial step...
+09:13:28 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:13:28[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:13:28[INFO]: The initial step is done, the process is ready
+09:13:28[INFO]: Tracking...
+09:13:29[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:13:29[ERROR]: http://localhost/test/ has been defaced
+09:14:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:14:00[ERROR]: http://localhost/test/ has been defaced
+09:14:41[START]: Preparing for the initial step...
+09:14:41 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:14:42[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:14:42[INFO]: The initial step is done, the process is ready
+09:14:42[INFO]: Tracking...
+09:14:42[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:14:42[ERROR]: http://localhost/test/ has been defaced
+09:14:57[START]: Preparing for the initial step...
+09:14:57 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:14:57[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:14:57[INFO]: The initial step is done, the process is ready
+09:14:57[INFO]: Tracking...
+09:14:58[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:14:58[ERROR]: http://localhost/test/ has been defaced
+09:15:35[START]: Preparing for the initial step...
+09:15:35 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:15:35[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:15:35[INFO]: The initial step is done, the process is ready
+09:15:35[INFO]: Tracking...
+09:20:15[START]: Preparing for the initial step...
+09:20:15 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:20:15[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:20:15[INFO]: The initial step is done, the process is ready
+09:20:15[INFO]: Tracking...
+09:24:23[START]: Preparing for the initial step...
+09:24:23 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:24:24[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:24:24[INFO]: The initial step is done, the process is ready
+09:24:24[INFO]: Tracking...
+09:24:45[START]: Preparing for the initial step...
+09:24:45 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:24:45[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:24:45[INFO]: The initial step is done, the process is ready
+09:24:45[INFO]: Tracking...
+09:26:31[START]: Preparing for the initial step...
+09:26:31 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:26:31[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:26:31[INFO]: The initial step is done, the process is ready
+09:26:31[INFO]: Tracking...
+09:26:31[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:26:31[ERROR]: http://localhost/test/ has been defaced
+09:27:44[START]: Preparing for the initial step...
+09:27:44 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:27:44[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:27:44[INFO]: The initial step is done, the process is ready
+09:27:44[INFO]: Tracking...
+09:29:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:29:00[ERROR]: http://localhost/test/ has been defaced
+09:30:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:30:00[ERROR]: http://localhost/test/ has been defaced
+09:31:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:31:00[ERROR]: http://localhost/test/ has been defaced
+09:32:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:32:00[ERROR]: http://localhost/test/ has been defaced
+09:33:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:33:00[ERROR]: http://localhost/test/ has been defaced
+09:34:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:34:00[ERROR]: http://localhost/test/ has been defaced
+09:35:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:35:00[ERROR]: http://localhost/test/ has been defaced
+09:36:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:36:00[ERROR]: http://localhost/test/ has been defaced
+09:37:00[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:37:00[ERROR]: http://localhost/test/ has been defaced
+09:37:18[START]: Preparing for the initial step...
+09:37:18 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:37:18[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:37:18[INFO]: The initial step is done, the process is ready
+09:37:18[INFO]: Tracking...
+09:37:49[START]: Preparing for the initial step...
+09:37:49 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:37:50[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:37:50[INFO]: The initial step is done, the process is ready
+09:37:50[INFO]: Tracking...
+09:37:50[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:37:50[ERROR]: http://localhost/test/ has been defaced
+09:37:57[START]: Preparing for the initial step...
+09:37:57 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:37:57[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:37:57[INFO]: The initial step is done, the process is ready
+09:37:57[INFO]: Tracking...
+09:38:01[START]: Preparing for the initial step...
+09:38:01 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= 
+09:38:01[INFO]: http://localhost/test/'s content has been exported:4b0161d1ba1b3046fbd4f448bbbfc42a
+09:38:01[INFO]: The initial step is done, the process is ready
+09:38:01[INFO]: Tracking...
+09:38:01[WARNING]: http://localhost/test/ seem to be deface(#1)
+09:38:01[ERROR]: http://localhost/test/ has been defaced
+22:57:48[START]: Preparing for the initial step...
+22:57:48 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+22:57:54[WARNING]: is not able to created initial content
+22:57:54[INFO]: The initial step is done, the process is ready
+22:57:54[INFO]: Tracking...
+22:58:00[ERROR]: http://localhost/test/ is temporarily unavailabe
+22:58:03[INFO]: a SMS alert has been sent to +841219284106
+22:58:09[ERROR]: http://localhost/test/ is temporarily unavailabe
+22:58:10[INFO]: a SMS alert has been sent to +841219284106
+22:59:08[START]: Preparing for the initial step...
+22:59:08 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+22:59:10[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+22:59:13[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+22:59:22[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+22:59:22[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+22:59:22[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+22:59:22[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+22:59:22[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+22:59:22[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+22:59:22[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+22:59:23[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+22:59:23[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+22:59:23[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+22:59:24[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+22:59:24[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+22:59:28[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+22:59:29[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+22:59:29[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+22:59:29[INFO]: The initial step is done, the process is ready
+22:59:29[INFO]: Tracking...
+22:59:31[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+22:59:35[WARNING]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/: server response time is too long (4 seconds)
+22:59:44[WARNING]: http://media.chinhphu.vn: server response time is too long (5 seconds)
+23:00:04[WARNING]: http://ksec.info: server response time is too long (3 seconds)
+23:00:06[WARNING]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/: server response time is too long (2 seconds)
+23:00:17[WARNING]: http://media.chinhphu.vn: server response time is too long (7 seconds)
+23:01:02[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:01:11[WARNING]: http://media.chinhphu.vn: server response time is too long (5 seconds)
+23:05:16[START]: Preparing for the initial step...
+23:05:16 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+23:05:18[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+23:05:24[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+23:05:33[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+23:05:33[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+23:05:33[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+23:05:33[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+23:05:34[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+23:05:34[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+23:05:34[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+23:05:34[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+23:05:34[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+23:05:34[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+23:05:34[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+23:05:35[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+23:05:35[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+23:05:35[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+23:05:36[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+23:05:36[INFO]: The initial step is done, the process is ready
+23:05:36[INFO]: Tracking...
+23:05:38[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:05:42[WARNING]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/: server response time is too long (4 seconds)
+23:05:52[WARNING]: http://media.chinhphu.vn: server response time is too long (5 seconds)
+23:06:10[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:06:12[WARNING]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/: server response time is too long (2 seconds)
+23:06:21[WARNING]: http://media.chinhphu.vn: server response time is too long (5 seconds)
+23:06:37[START]: Preparing for the initial step...
+23:06:37 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+23:06:39[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+23:06:43[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+23:06:52[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+23:06:52[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+23:06:53[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+23:06:53[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+23:06:53[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+23:06:53[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+23:06:54[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+23:06:54[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+23:06:54[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+23:06:54[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+23:06:55[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+23:06:59[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+23:06:59[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+23:06:59[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+23:07:00[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+23:07:00[INFO]: The initial step is done, the process is ready
+23:07:00[INFO]: Tracking...
+23:07:02[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:07:11[WARNING]: http://media.chinhphu.vn: server response time is too long (6 seconds)
+23:07:46[START]: Preparing for the initial step...
+23:07:46 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+23:07:48[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+23:07:48[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+23:07:57[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+23:07:58[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+23:07:58[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+23:07:58[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+23:07:58[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+23:07:58[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+23:08:11[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+23:08:11[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+23:08:12[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+23:08:12[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+23:08:12[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+23:08:12[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+23:08:12[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+23:08:13[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+23:08:13[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+23:08:13[INFO]: The initial step is done, the process is ready
+23:08:13[INFO]: Tracking...
+23:08:15[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:08:24[WARNING]: http://media.chinhphu.vn: server response time is too long (6 seconds)
+23:09:02[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:09:12[WARNING]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/: server response time is too long (10 seconds)
+23:09:23[WARNING]: http://media.chinhphu.vn: server response time is too long (5 seconds)
+23:10:12[ERROR]: http://nguyenxuanphuc.chinhphu.vn is temporarily unavailabe
+23:10:14[START]: Preparing for the initial step...
+23:10:14 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+23:10:17[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+23:10:17[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+23:10:26[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+23:10:26[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+23:10:26[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+23:10:26[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+23:10:26[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+23:10:26[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+23:10:26[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+23:10:27[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+23:10:27[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+23:10:27[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+23:10:28[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+23:10:28[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+23:10:53[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+23:10:53[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+23:10:53[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+23:10:53[INFO]: The initial step is done, the process is ready
+23:10:53[INFO]: Tracking...
+23:10:56[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:10:58[INFO]: a SMS alert has been sent to +841219284106
+23:11:08[WARNING]: http://media.chinhphu.vn: server response time is too long (6 seconds)
+23:11:10[INFO]: a SMS alert has been sent to +841219284106
+23:13:06[START]: Preparing for the initial step...
+23:13:06 TIME OUT= 1 DURATION= 1 RETRY= 1 ALERT METHOD= sms
+23:13:08[INFO]: http://ksec.info's content has been exported:a3195c80a0cbf076969560e84c7406ed
+23:13:11[INFO]: http://chinhphu.vn/portal/page/portal/chinhphu/trangchu/'s content has been exported:9363255fff21e969fd05be448d48f166
+23:13:20[INFO]: http://media.chinhphu.vn's content has been exported:df1305554df88532b6f8a248f12f3a05
+23:13:21[INFO]: http://baodientu.chinhphu.vn's content has been exported:033f4b0cf16b1ef74153f6112adfc8a0
+23:13:21[INFO]: http://vanban.chinhphu.vn's content has been exported:84b08bc49d0f33bace70bfe8fa0a5179
+23:13:21[INFO]: http://congbao.chinhphu.vn's content has been exported:cb92463be0f971d2e1423ca9e6c19a96
+23:13:22[INFO]: http://thutuong.chinhphu.vn's content has been exported:c7adcdbef6dbac427cfe0c1b187e5340
+23:13:22[INFO]: http://vpcp.chinhphu.vn's content has been exported:63b4e82162b52865f1cbdf0650e89d00
+23:13:35[INFO]: http://thanglong.chinhphu.vn's content has been exported:f68c53670da0f3ceddb566f02619f06e
+23:13:35[INFO]: http://nhcsxh.chinhphu.vn's content has been exported:ee107a16450e71bc054480f793014d7f
+23:13:36[INFO]: http://canhtranhquocgia.vn's content has been exported:ad3f80d301497558a3d88c30adc80568
+23:13:36[INFO]: http://chinhsachonline.chinhphu.vn's content has been exported:2519e872da8a62320a014fd3c8ab6e87
+23:13:40[INFO]: http://nguyenxuanphuc.chinhphu.vn's content has been exported:06d45fd1aa4f5b5834aca98f2c8053c4
+23:13:41[INFO]: http://hoangtrunghai.chinhphu.vn's content has been exported:49dec510b8c9c30057c0fb0940ae6692
+23:13:41[INFO]: http://vuvanninh.chinhphu.vn's content has been exported:83acb5b89be631144db168d1c5f9810e
+23:13:42[INFO]: http://phambinhminh.chinhphu.vn's content has been exported:9f3719b1a51d7d04bff17512f4f11e2c
+23:13:42[INFO]: http://vuducdam.chinhphu.vn's content has been exported:fb0757464a1275cb25c54b00b96a4ff9
+23:13:42[INFO]: The initial step is done, the process is ready
+23:13:42[INFO]: Tracking...
+23:13:45[WARNING]: http://ksec.info: server response time is too long (1 seconds)
+23:13:47[INFO]: a SMS alert has been sent to +841219284106

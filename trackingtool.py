@@ -20,22 +20,8 @@ from lib.khoitaodoc.khoitao import *
 
 from controller.trackingController import *
 
-def main(argv):
-   
-   try:
- 
-      opts, args = getopt.getopt(argv,"u:h")
-   except getopt.GetoptError:
-      print '-h for help'
-      sys.exit(2)
-   for opt, arg in opts:
-      if opt == '-h':
-      
-         print "-u: start"
-         sys.exit()
-         
-      elif opt == '-u':
-        trackingController()
+
+        
       
 banner="""
 
@@ -57,7 +43,7 @@ banner="""
 
 
 """
-banner+="TRACKINGTOOL\nAuthor: truongtn \nHome:http://abc.com\n\n\n\n\n"
+banner+="[+] TRACKINGTOOL\n[+] Author: truongtn \n[+] Home:http://abc.com\n\n\n\n\n"
 
 
                                                              
@@ -65,6 +51,5 @@ banner+="TRACKINGTOOL\nAuthor: truongtn \nHome:http://abc.com\n\n\n\n\n"
 
 
 print banner
+trackingController()
 
-if __name__ == "__main__":
-   main(sys.argv[1:])

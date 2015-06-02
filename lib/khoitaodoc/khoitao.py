@@ -9,14 +9,16 @@ from makemd5 import *
 from ngoaile import *
 import fixpath
 from colorama import init, Fore, Back, Style
-
+from log.logcenter import *
 from general.time_log import *
 def khoitao():
         init()
         f =open("list.txt","r")
         a = f.read()
+        f.close()
         
         DONG = xacdinhdong(a)
+        
         for dong in DONG:
                 try:
                         o = urlparse(dong)
@@ -27,10 +29,11 @@ def khoitao():
                         ghifile(o.hostname,makemd5(tachhead(noidung)))
                         
                         print(Fore.GREEN+ "[INFO]:"+time_log("date")+" "+time_log("time")+" "+dong+"'s content has been exported:"+makemd5(tachhead(noidung)))
+                        logcenter("[INFO]:"+" "+dong+"'s content has been exported:"+makemd5(tachhead(noidung)))
                         f.close()
                 except:
                         print(Fore.YELLOW+ "[WARNING]:"+time_log("date")+" "+time_log("time")+" "+dong+" is not able to created initial content")
-                       
+                        logcenter("[WARNING]:"+" is not able to created initial content")
        
         return DONG
        

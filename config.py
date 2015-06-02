@@ -1,7 +1,7 @@
-#Global variable
+#Global variables
 retry={}
 
-# Http setting
+#Http settings
 METHOD="GET"
 THAMSOS=[]
 HEADER_ENABLE=0
@@ -9,17 +9,18 @@ HEADERS={"User-Agent": "truongtn","Accept": "text/html,application/xhtml+xml,app
 
 
 
-# Scan setting
+#Tracking settings
 DEBUG = 0
-TIME_OUT = 1
+TIME_OUT = 120
 DURATION = 1
 RETRY = 1
+BLACKLIST_ENABLE = 1
 
 
-#Alert setting
+#Alert settings
 ALERT_METHOD = ""
 
 
 
-#SMS setting
+#SMS settings
 TO = "+841219284106"

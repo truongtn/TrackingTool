@@ -2,16 +2,17 @@ import sys
 from config import *
 import httplib, urllib
 from urlparse import urlparse
-
+import fixpath
+from log.logcenter import *
 
 def sms(url,errcode):
-    print "SFs"
+   
     notice = []
     notice.append("none")
-    notice.append("time out")
-    notice.append("500")
-    notice.append("dut han")
-    notice.append("deface")
+    notice.append("server response time is too long")
+    notice.append("error 5xx internal server error")
+    notice.append("is temporarily unavailabe")
+    notice.append("has been defaced")
     body = url +" "+notice[errcode]
     THAMSOS=""
     url="https://api.twilio.com/2010-04-01/Accounts/ACd1a126f172bd9ea2fc4db24772740458/Messages.json"
@@ -41,7 +42,8 @@ def sms(url,errcode):
     data = response.read()  
     
 
-    print "[INFO]: SMS alert has been sent"
+    print "[INFO]: a SMS alert has been sent"
+    logcenter("[INFO]: a SMS alert has been sent to "+TO)
 
    
    
