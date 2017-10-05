@@ -23,4 +23,4 @@ ALERT_METHOD = ""
 
 
 #SMS settings
-TO = "+841219284106"
+TO = "+84123456789"
